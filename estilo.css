@@ -75,3 +75,13 @@ header {
 .next {
   right: 10px;
 }
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #d32f2f;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
